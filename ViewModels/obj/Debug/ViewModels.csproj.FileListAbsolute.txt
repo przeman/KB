@@ -1,0 +1,5 @@
+C:\Users\Administrator\Downloads\KB\KB\KB\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Administrator\Downloads\KB\KB\KB\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Administrator\Downloads\KB\KB\KB\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Administrator\Downloads\KB\KB\KB\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\Administrator\Downloads\KB\KB\KB\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache

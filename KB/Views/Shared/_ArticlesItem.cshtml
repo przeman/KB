@@ -1,0 +1,17 @@
+﻿@model KB.ViewModels.Article
+
+<div class="row">   
+ <div class="col-md-3">Tu bedzie obrazek</div>
+    <div class="col-md-9">
+        <h3> @Model.Title</h3>
+        <p> @Model.Authors</p>
+        <p> @Model.Description</p>
+        <p>Opublikowano: @Model.PublishDate.ToShortDateString()</p>
+        <div>@Model.Body</div>
+        <p>@Model.KeyWords</p>
+        <p class="pull-right">@Html.ActionLink("czytaj dalej", "Details" , new { id = Model.Id }, new { @class = "btn btn-primary" } )</p>
+        <hr />
+    </div>
+  </div>
+
+ 

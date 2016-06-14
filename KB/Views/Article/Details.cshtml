@@ -1,0 +1,28 @@
+﻿@model KB.ViewModels.Article
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div class="row">
+    <div class="col-md-12">
+        <h4>Article</h4>
+        <hr />
+        <h3>
+            @Html.DisplayFor(model => model.Title)
+        </h3>
+        <p>
+            @Html.DisplayFor(model => model.Description)
+        </p>
+        <p>
+            @Html.DisplayFor(model => model.PublishDate)
+        </p>
+        <div>
+            @Html.DisplayFor(model => model.Body)
+        </div>
+    </div>
+</div>
+<p class="pull-right">@Html.ActionLink("OK", "Index", null, new { @class = "btn btn-success" })</p>
+

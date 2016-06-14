@@ -1,0 +1,20 @@
+﻿@using KB.ViewModels
+@model IEnumerable<Article>
+
+@{
+    ViewBag.Title = "Artykuły w bazie wiedzy";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+
+    @foreach (var item in Model)
+    {
+        @Html.Partial("_ArticlesItem",item)
+    }
+

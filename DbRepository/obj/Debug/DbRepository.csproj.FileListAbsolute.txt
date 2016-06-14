@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\KB\KB\KB\DbRepository\bin\Debug\DbRepository.dll
+C:\Users\Administrator\Downloads\KB\KB\KB\DbRepository\bin\Debug\DbRepository.pdb
+C:\Users\Administrator\Downloads\KB\KB\KB\DbRepository\bin\Debug\ViewModels.dll
+C:\Users\Administrator\Downloads\KB\KB\KB\DbRepository\bin\Debug\ViewModels.pdb
+C:\Users\Administrator\Downloads\KB\KB\KB\DbRepository\obj\Debug\DbRepository.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\KB\KB\KB\DbRepository\obj\Debug\DbRepository.dll
+C:\Users\Administrator\Downloads\KB\KB\KB\DbRepository\obj\Debug\DbRepository.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\KB\KB\KB\DbRepository\bin\Debug\DbRepository.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\KB\KB\KB\DbRepository\bin\Debug\DbRepository.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\KB\KB\KB\DbRepository\bin\Debug\ViewModels.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\KB\KB\KB\DbRepository\bin\Debug\ViewModels.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\KB\KB\KB\DbRepository\obj\Debug\DbRepository.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\KB\KB\KB\DbRepository\obj\Debug\DbRepository.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\KB\KB\KB\DbRepository\obj\Debug\DbRepository.pdb
